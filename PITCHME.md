@@ -11,3 +11,16 @@ GitPitchは、マークダウンファイルであるPITCHME.mdをオンライ�
 1. [https://github.com/soarflat-prototype/GitPitch](https://github.com/soarflat-prototype/GitPitch)にPITCHME.mdをpushした場合、[https://gitpitch.com/soarflat-prototype/GitPitch](https://gitpitch.com/soarflat-prototype/GitPitch)でスライドショーを見れる
 
 ---
+
+## スライドの分割
+
+`---`でスライドを水平に分割できる
+
+`+++`でスライドを垂直に分割できる
+
++++
+
+垂直に分割した
+
+---
+
